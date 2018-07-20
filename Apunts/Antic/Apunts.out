@@ -1,0 +1,85 @@
+\BOOKMARK [-1][-]{part.1}{I Introducci\363}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Coses per fer}{part.1}% 2
+\BOOKMARK [1][-]{section.1.1}{\300lgebra lineal}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.1.1}{Definicions}{section.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.1.2}{Proposicions}{section.1.1}% 5
+\BOOKMARK [2][-]{subsection.1.1.3}{Teoremes}{section.1.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Funcions de variable real}{chapter.1}% 7
+\BOOKMARK [2][-]{subsection.1.2.1}{Definicions}{section.1.2}% 8
+\BOOKMARK [2][-]{subsection.1.2.2}{Proposicions}{section.1.2}% 9
+\BOOKMARK [2][-]{subsection.1.2.3}{Teoremes}{section.1.2}% 10
+\BOOKMARK [1][-]{section.1.3}{Trobar lloc per tot aix\362}{chapter.1}% 11
+\BOOKMARK [-1][-]{part.2}{II C\340lcul en diverses variables i optimitzaci\363}{}% 12
+\BOOKMARK [0][-]{chapter.2}{C\340lcul diferencial}{part.2}% 13
+\BOOKMARK [1][-]{section.2.1}{Introducci\363}{chapter.2}% 14
+\BOOKMARK [2][-]{subsection.2.1.1}{Arcs en m\372ltiples variables}{section.2.1}% 15
+\BOOKMARK [2][-]{subsection.2.1.2}{Oberts connexos}{section.2.1}% 16
+\BOOKMARK [1][-]{section.2.2}{Funcions diferenciables}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.1}{Diferencial d'una funci\363 en m\372ltiples variables}{section.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.2.2}{La Matriu Jacobiana i la regla de la cadena}{section.2.2}% 19
+\BOOKMARK [2][-]{subsection.2.2.3}{Gradient, punts cr\355tics i extrems relatius}{section.2.2}% 20
+\BOOKMARK [2][-]{subsection.2.2.4}{Canvis de coordenades diferenciables}{section.2.2}% 21
+\BOOKMARK [1][-]{section.2.3}{Teoremes de la funci\363 impl\355cita i inversa}{chapter.2}% 22
+\BOOKMARK [2][-]{subsection.2.3.1}{Depend\350ncia i independ\350ncia funcional}{section.2.3}% 23
+\BOOKMARK [2][-]{subsection.2.3.2}{Varietats}{section.2.3}% 24
+\BOOKMARK [2][-]{subsection.2.3.3}{Teorema de la funci\363 inversa}{section.2.3}% 25
+\BOOKMARK [2][-]{subsection.2.3.4}{Teorema de la funci\363 impl\355cita}{section.2.3}% 26
+\BOOKMARK [1][-]{section.2.4}{Extrems relatius}{chapter.2}% 27
+\BOOKMARK [2][-]{subsection.2.4.1}{El m\350tode de multiplicadors de Lagrange}{section.2.4}% 28
+\BOOKMARK [2][-]{subsection.2.4.2}{Teorema del rang constant}{section.2.4}% 29
+\BOOKMARK [2][-]{subsection.2.4.3}{Derivades d'ordre superior}{section.2.4}% 30
+\BOOKMARK [2][-]{subsection.2.4.4}{F\363rmula de Taylor en m\372ltiples variables}{section.2.4}% 31
+\BOOKMARK [2][-]{subsection.2.4.5}{Extrems lliures}{section.2.4}% 32
+\BOOKMARK [0][-]{chapter.3}{C\340lcul integral}{part.2}% 33
+\BOOKMARK [1][-]{section.3.1}{Introducci\363}{chapter.3}% 34
+\BOOKMARK [2][-]{subsection.3.1.1}{Funcions integrables Riemann}{section.3.1}% 35
+\BOOKMARK [2][-]{subsection.3.1.2}{La integral com a l\355mit de sumes}{section.3.1}% 36
+\BOOKMARK [2][-]{subsection.3.1.3}{Propietats de la integral Riemann definida}{section.3.1}% 37
+\BOOKMARK [1][-]{section.3.2}{Les funcions integrables Riemann}{chapter.3}% 38
+\BOOKMARK [2][-]{subsection.3.2.1}{Caracteritzaci\363 de les funcions integrables Riemann}{section.3.2}% 39
+\BOOKMARK [2][-]{subsection.3.2.2}{Integraci\363 sobre conjunts generals}{section.3.2}% 40
+\BOOKMARK [0][-]{chapter.4}{C\340lcul vectorial}{part.2}% 41
+\BOOKMARK [1][-]{section.4.1}{Introducci\363}{chapter.4}% 42
+\BOOKMARK [-1][-]{part.3}{III Estructures algebraiques}{}% 43
+\BOOKMARK [0][-]{chapter.5}{Teoria de grups}{part.3}% 44
+\BOOKMARK [1][-]{section.5.1}{Introducci\363}{chapter.5}% 45
+\BOOKMARK [2][-]{subsection.5.1.1}{Grups}{section.5.1}% 46
+\BOOKMARK [2][-]{subsection.5.1.2}{Subgrups i subgrups normals}{section.5.1}% 47
+\BOOKMARK [2][-]{subsection.5.1.3}{Grups c\355clics i grups abelians.}{section.5.1}% 48
+\BOOKMARK [2][-]{subsection.5.1.4}{Relaci\363 d'equival\350ncia entre grups}{section.5.1}% 49
+\BOOKMARK [1][-]{section.5.2}{Tres Teoremes d'isomorfisme entre grups}{chapter.5}% 50
+\BOOKMARK [2][-]{subsection.5.2.1}{Morfismes entre grups}{section.5.2}% 51
+\BOOKMARK [2][-]{subsection.5.2.2}{Teoremes d'isomorfisme entre grups}{section.5.2}% 52
+\BOOKMARK [1][-]{section.5.3}{Tres Teoremes de Sylow}{chapter.5}% 53
+\BOOKMARK [2][-]{subsection.5.3.1}{Accions sobre grups}{section.5.3}% 54
+\BOOKMARK [2][-]{subsection.5.3.2}{Teoremes de Sylow}{section.5.3}% 55
+\BOOKMARK [0][-]{chapter.6}{Teoria d'anells}{part.3}% 56
+\BOOKMARK [1][-]{section.6.1}{Introducci\363}{chapter.6}% 57
+\BOOKMARK [2][-]{subsection.6.1.1}{Anells}{section.6.1}% 58
+\BOOKMARK [2][-]{subsection.6.1.2}{Ideals i ideals principals}{section.6.1}% 59
+\BOOKMARK [2][-]{subsection.6.1.3}{Cossos i l'anell quocient}{section.6.1}% 60
+\BOOKMARK [1][-]{section.6.2}{Tres Teoremes d'isomorfisme entre anells}{chapter.6}% 61
+\BOOKMARK [2][-]{subsection.6.2.1}{Morfismes entre anells}{section.6.2}% 62
+\BOOKMARK [2][-]{subsection.6.2.2}{Teoremes d'isomorfisme entre anells}{section.6.2}% 63
+\BOOKMARK [2][-]{subsection.6.2.3}{Caracter\355stica d'un anell}{section.6.2}% 64
+\BOOKMARK [1][-]{section.6.3}{Dominis}{chapter.6}% 65
+\BOOKMARK [2][-]{subsection.6.3.1}{Dominis d'integritat, ideals primers i maximals}{section.6.3}% 66
+\BOOKMARK [2][-]{subsection.6.3.2}{Lemma de Zorn}{section.6.3}% 67
+\BOOKMARK [2][-]{subsection.6.3.3}{Divisibilitat}{section.6.3}% 68
+\BOOKMARK [2][-]{subsection.6.3.4}{Dominis de factoritzaci\363 \372nica}{section.6.3}% 69
+\BOOKMARK [2][-]{subsection.6.3.5}{Anells Noetherians}{section.6.3}% 70
+\BOOKMARK [2][-]{subsection.6.3.6}{Dominis d'ideals principals}{section.6.3}% 71
+\BOOKMARK [2][-]{subsection.6.3.7}{Dominis Euclidians}{section.6.3}% 72
+\BOOKMARK [0][-]{chapter.7}{Cossos finits}{part.3}% 73
+\BOOKMARK [1][-]{section.7.1}{Introducci\363}{chapter.7}% 74
+\BOOKMARK [-1][-]{part.4}{IV M\350todes Num\350rics}{}% 75
+\BOOKMARK [0][-]{chapter.8}{Interpolaci\363}{part.4}% 76
+\BOOKMARK [1][-]{section.8.1}{Introducci\363}{chapter.8}% 77
+\BOOKMARK [2][-]{subsection.8.1.1}{Problema d'interpolaci\363}{section.8.1}% 78
+\BOOKMARK [1][-]{section.8.2}{Polinomis interpoladors de Lagrange}{chapter.8}% 79
+\BOOKMARK [2][-]{subsection.8.2.1}{Interpolaci\363 de Lagrange}{section.8.2}% 80
+\BOOKMARK [2][-]{subsection.8.2.2}{M\350tode de les difer\350ncies dividides de Newton}{section.8.2}% 81
+\BOOKMARK [2][-]{subsection.8.2.3}{Error en la interpolaci\363 de Lagrange}{section.8.2}% 82
+\BOOKMARK [2][-]{subsection.8.2.4}{Interpolaci\363 en nodes equiespaiats}{section.8.2}% 83
+\BOOKMARK [1][-]{section.8.3}{Polinomis interpoladors per splines}{chapter.8}% 84
+\BOOKMARK [2][-]{subsection.8.3.1}{Interpolaci\363 per splines}{section.8.3}% 85
